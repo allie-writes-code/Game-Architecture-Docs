@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "Gormoth Codebase", "index.html", [
+  [ "Game Architecture Codebase", "index.html", [
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
